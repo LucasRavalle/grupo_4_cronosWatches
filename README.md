@@ -23,7 +23,7 @@ Deja de perder el tiempo, y gastalo probando nuestro relojes.
 ## *Integrantes*
 - Eric Leonel Benitez, 23 años, Ramos Mejía(Bs As), Miliar, actual programador web full stack  en formación en Digital House con Funfación Formar.
 
-- Lucas Fernando Revalle, 21 años, Rafael Castillo(Bs As), Militar, actual programador web full stack en formación en Digital House con Fundacion Formar.
+- Lucas Fernando Ravalle, 21 años, Rafael Castillo(Bs As), Militar, actual programador web full stack en formación en Digital House con Fundacion Formar.
 
 - Alejandro Ezequiel Rodriguez, 23 años, Lanús(Bs As), auxilitar en perfumería, actual programador web full stack en formación en Digital House con Fundación Formar.
 
